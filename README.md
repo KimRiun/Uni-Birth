@@ -1,7 +1,6 @@
 # Uni-Birth
 
 <img src="./img/unibirth_logo.png">
-<img src="./img/ucc_demo.mp4" width="100%">
 
 
 ## ✨ 1. 서비스 소개
