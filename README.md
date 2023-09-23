@@ -68,26 +68,12 @@ Uni-Birth는 Universe와 Birth의 합성어로, 우주라는 광활한 공간에
 - 핀할 수 있는 별자리 개수 제한 및 개수 증가 원할 시 추가 비용 발생
 - 별자리 생성 가능 개수를 별 띄우기 참여 비율에 비례해 제한하여 별 띄우기 참여 유도
 
-## ✨ 4. 구성원
-
-## 1. Front
-
-|                                           |  이름  | 역할                                 |
-| :---------------------------------------: | :----: | :----------------------------------- |
-| <img src="./img/김민섭1.png" width=100px> | 김민섭 | -Front Lead <br> - Main flow         |
-| <img src="./img/이성섭1.png" width=100px> | 이성섭 | -3D rendering <br> - Components flow |
-| <img src="./img/정준혁1.png" width=100px> | 정준혁 | -2D canvas <br> - Architecture flow  |
-
-## 2. Back
-
-|                                           |  이름  | 역할                                                   |
-| :---------------------------------------: | :----: | :----------------------------------------------------- |
-| <img src="./img/이승엽1.png" width=100px> | 이승엽 | - 조장<br> - Team Lead <br> - 발표 <br> - Jira 관리    |
-| <img src="./img/김경륜1.png" width=100px> | 김경륜 | - Back-lead <br> - 회의 진행 <br> - 노션 관리          |
-| <img src="./img/태준모1.png" width=100px> | 태준모 | - Backend <br> - 서기 <br> - 3D 이미지 구현 <br> - UCC |
-
+## ✨ 4. 역할
 - 백엔드 리더
-- 별자리, 별, 댓글
+- 별자리, 별, 댓글 API 개발
+- 프론트, 백엔드 서버 EC2에 배포
+- 노션 관리
+
 
 ## ✨ 5. 진행 기간
 
